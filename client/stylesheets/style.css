@@ -133,3 +133,5 @@ body { background: #ccc; color: #000; }
 }
 
 .navbar-default { background: #ccc; border: none }
+
+.footer { left: 0; right: 0; bottom: 10px; text-align: center; font-size: 12px; position : absolute; }
